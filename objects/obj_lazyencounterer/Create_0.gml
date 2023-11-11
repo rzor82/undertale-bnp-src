@@ -1,0 +1,16 @@
+cl = 0
+battleno = 0
+if (room == room_fire5 && global.flag[408] > 0)
+    instance_destroy()
+if (room == room_fire7 && global.flag[408] > 1)
+    instance_destroy()
+if (room == room_fire_walkandbranch && global.flag[408] > 2)
+    instance_destroy()
+if (room == room_fire_walkandbranch2 && global.flag[408] > 3)
+    instance_destroy()
+if (room == room_fire_rpuzzle && global.flag[408] > 5)
+    instance_destroy()
+if (room == room_fire_preshootguy4 && global.flag[408] > 5)
+    instance_destroy()
+if (global.flag[6] == 0 || global.flag[8] == 1 || global.flag[7] == 1)
+    instance_destroy()

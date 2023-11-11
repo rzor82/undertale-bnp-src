@@ -1,0 +1,16 @@
+var buff = buffer_create(((instance_number(obj_dropped_item) * 8) + 6), buffer_fixed, 1)
+buffer_write(buff, buffer_string, "ITEM")
+buffer_write(buff, buffer_u8, instance_number(obj_dropped_item))
+with (obj_dropped_item)
+{
+    buffer_write(buff, buffer_s16, round(x))
+    buffer_write(buff, buffer_s16, round(y))
+    buffer_write(buff, buffer_s16, round(itemid))
+    buffer_write(buff, buffer_s16, round(dropped_room))
+}
+var filename = ("item" + string(global.filechoice))
+var file = file_bin_open(filename, 1)
+file_bin_rewrite(file)
+file_bin_close(file)
+buffer_save(buff, filename)
+buffer_delete(buff)

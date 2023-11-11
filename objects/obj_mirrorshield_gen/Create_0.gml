@@ -1,0 +1,20 @@
+global.border = 0
+SCR_BORDERSETUP()
+global.border = -1
+boss = obj_mirrorb.id
+destx = (((room_width / 2) - boss.sprite_width) - 10)
+desty = ((global.idealborder[3] + 5) - boss.sprite_height)
+global.idealborder[0] = ((room_width / 2) + 10)
+global.idealborder[1] = ((global.idealborder[0] + boss.sprite_width) - 5)
+global.idealborder[2] = (global.idealborder[3] - boss.sprite_height)
+depth = (obj_battlecontroller.depth - 2)
+boss.flashphase = 1
+startx = boss.x
+starty = boss.y
+waveheight = 3
+fillamt = 5
+prevcon = 0
+travel = 0
+height = 0
+siner = 0
+con = 0

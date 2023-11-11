@@ -1,0 +1,10 @@
+dmg = 99999
+touched = false
+con = 0
+hspeed = -1.5
+y = (obj_heart.y + 10)
+x = (obj_heart.x + 280)
+image_alpha = 0
+amp = 0.3
+siner = 0
+inity = y

@@ -1,0 +1,16 @@
+depth = 1000
+surface = -4
+line_width = 12
+horiz_speed = -1
+vert_speed = 0.5
+num_lines = 8
+hoffset = 0
+color = 0
+fskip = 0.5
+smear = 60
+freq = 0.1
+sat = 255
+amp = 10
+w = -1
+h = -1
+t = 0

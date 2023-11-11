@@ -1,0 +1,15 @@
+dsprite = spr_asgore_dt
+usprite = spr_asgore_ut
+lsprite = spr_asgore_lt
+rsprite = spr_asgore_rt
+dtsprite = spr_asgore_dt
+utsprite = spr_asgore_ut
+ltsprite = spr_asgore_lt
+rtsprite = spr_asgore_rt
+myinteract = 0
+facing = 1
+direction = 270
+talkedto = 0
+fun = false
+global.flag[430] = 0
+global.flag[390] = 0

@@ -1,0 +1,2 @@
+var act = "Check"
+global.msg[0] = "* ??? - ATK ??? DEF ???&* No data is available./^"

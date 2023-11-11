@@ -1,0 +1,6 @@
+draw_sprite_ext(sprite_index, image_index, x, y, image_xscale, image_yscale, 0, c_white, image_alpha)
+if (fun == false)
+    script_execute(scr_npcdir, 2)
+if (watchmebruh == 1)
+    scr_npc_watch(0)
+scr_depth()

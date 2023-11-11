@@ -1,0 +1,25 @@
+scr_monstersetup()
+image_speed = 0
+part1 = obj_troubleboy_portabie_body
+mypart1 = instance_create(x, y, part1)
+alarm[9] = 8
+hurtanim = 0
+hurtsound = snd_hurt_portabie
+talked = false
+whatiheard = -1
+attacked = 0
+killed = 0
+global.heard = 0
+takedamage = 0
+mercymod = 7
+sha = 0
+shb = 0
+ht = 100
+wd = 100
+x = 280
+y = 170
+visible = false
+progress = 0
+mycommand = 0
+defdrop = 0
+overtime = 1

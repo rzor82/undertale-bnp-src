@@ -1,0 +1,15 @@
+dsprite = spr_undyne_dt
+usprite = spr_undyne_ut
+lsprite = spr_undyne_lt
+rsprite = spr_undyne_rt
+dtsprite = spr_undyne_dt
+utsprite = spr_undyne_ut
+ltsprite = spr_undyne_lt
+rtsprite = spr_undyne_rt
+myinteract = 0
+facing = 1
+direction = 270
+talkedto = 0
+fun = false
+global.flag[430] = 0
+global.flag[390] = 0

@@ -1,0 +1,10 @@
+dmg = 0
+rr = 0
+y = (global.idealborder[2] + 7)
+con = 0
+side = 0
+len = 50
+wait = 40
+eo = 0
+sided = 0
+image_alpha = 0

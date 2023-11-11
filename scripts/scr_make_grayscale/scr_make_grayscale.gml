@@ -1,0 +1,28 @@
+if (!sprite_exists(sprite_index))
+    return -1;
+var w = sprite_get_width(sprite_index)
+var h = sprite_get_height(sprite_index)
+var surface = surface_create(w, h)
+var buff = buffer_create(((w * h) * 4), buffer_fast, 1)
+surface_set_target(surface)
+draw_clear_alpha(c_black, 0)
+draw_set_alpha(1)
+draw_sprite_ext(sprite_index, image_index, 0, 0, 1, 1, 0, c_white, 1)
+surface_reset_target()
+buffer_get_surface(buff, surface, 0, 0, 0)
+for (var i = 0; i < ((w * h) * 4); i += 4)
+{
+    var r = buffer_peek(buff, i, buffer_u8)
+    var g = buffer_peek(buff, (i + 1), buffer_u8)
+    var b = buffer_peek(buff, (i + 2), buffer_u8)
+    var avg = floor((((r + g) + b) / 3))
+    buffer_poke(buff, i, buffer_u8, avg)
+    buffer_poke(buff, (i + 1), buffer_u8, avg)
+    buffer_poke(buff, (i + 2), buffer_u8, avg)
+}
+buffer_set_surface(buff, surface, 0, 0, 0)
+var sprite = sprite_create_from_surface(surface, 0, 0, w, h, false, false, 0, 0)
+scr_add_temp_sprite(sprite)
+surface_free(surface)
+buffer_delete(buff)
+return sprite;

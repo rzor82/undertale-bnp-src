@@ -1,0 +1,5 @@
+gravity -= (gravitywave * 0.1)
+if (abs(gravity) > 0.5)
+    gravitywave = (-gravitywave)
+if (global.turntimer < 1)
+    instance_destroy()

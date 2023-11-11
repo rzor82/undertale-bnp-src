@@ -1,0 +1,5 @@
+draw_set_alpha(1)
+draw_set_color(c_white)
+draw_rectangle((obj_lborder.x - 1), (obj_uborder.y - 1), (obj_rborder.x + 5), (obj_dborder.y + 5), false)
+draw_set_color(c_black)
+draw_rectangle((obj_lborder.x + 5), (obj_uborder.y + 5), (obj_rborder.x - 1), (obj_dborder.y - 1), false)

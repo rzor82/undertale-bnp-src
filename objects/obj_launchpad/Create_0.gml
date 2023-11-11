@@ -1,0 +1,16 @@
+ceiling = 0
+myinteract = 0
+descend_velocity = 2
+launch_velocity = -8
+drill_velocity = 7
+acceleration = 0.1
+force_launch = 0
+locked = false
+floory = -1
+drill = 0
+midx = -1
+minx = -1
+maxx = -1
+spin = -4
+wrap = -4
+con = 0

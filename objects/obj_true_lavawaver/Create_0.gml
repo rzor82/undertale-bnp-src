@@ -1,0 +1,10 @@
+x = (__view_get(0, 0) - 40)
+y = (__view_get(1, 0) - 40)
+init_band = 0
+a = 0
+b = 0
+c = 0
+siner = 0
+boff = 3.5
+coff = 3
+alarm[0] = 1

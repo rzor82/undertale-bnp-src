@@ -1,0 +1,15 @@
+dsprite = spr_alphys_dt
+usprite = spr_alphys_ut
+lsprite = spr_alphys_lt
+rsprite = spr_alphys_rt
+dtsprite = spr_alphys_dt
+utsprite = spr_alphys_ut
+ltsprite = spr_alphys_lt
+rtsprite = spr_alphys_rt
+myinteract = 0
+facing = 1
+direction = 270
+talkedto = 0
+fun = false
+global.flag[430] = 0
+global.flag[390] = 0

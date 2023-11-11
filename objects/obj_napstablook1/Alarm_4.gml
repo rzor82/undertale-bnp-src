@@ -1,0 +1,14 @@
+global.interact = 1
+myinteract = 3
+global.msc = 0
+global.typer = 5
+global.facechoice = "B"
+global.faceemotion = 0
+global.msg[0] = scr_gettext("obj_napstablook1_62")
+global.msg[1] = scr_gettext("obj_napstablook1_63")
+global.msg[2] = scr_gettext("obj_napstablook1_64")
+global.msg[3] = scr_gettext("obj_napstablook1_65")
+global.msg[4] = scr_gettext("obj_napstablook1_66")
+mydialoguer = instance_create(0, 0, obj_dialoguer)
+global.plot = 10.4
+global.flag[36] = 1

@@ -1,0 +1,12 @@
+with (obj_targetchoiceshoe)
+    instance_destroy()
+with (obj_targetchoicefist)
+    instance_destroy()
+with (obj_targetchoice)
+    instance_destroy()
+with (obj_ztarget)
+    instance_destroy()
+with (obj_xtarget)
+    instance_destroy()
+with (obj_target)
+    fade = 0

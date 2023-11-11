@@ -1,0 +1,10 @@
+x = -20
+y = -20
+image_speed = 0
+depth = 3
+image_alpha = 0
+image_xscale = 600
+image_yscale = 600
+darkify = 0
+destroy = 0
+parent = noone

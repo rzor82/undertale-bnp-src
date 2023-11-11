@@ -1,0 +1,8 @@
+if (!surface_exists(surface))
+    surface = surface_create(w, h)
+var charax = ((obj_mainchara.x - __view_get(0, 0)) * 2)
+var charay = ((obj_mainchara.y - __view_get(1, 0)) * 2)
+surface_set_target(surface)
+draw_clear_alpha(c_black, 0)
+draw_surface_part(application_surface, (charax - 10), (charay - 5), w, h, 0, 0)
+surface_reset_target()

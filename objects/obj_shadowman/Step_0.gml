@@ -1,0 +1,5 @@
+scr_depth()
+scr_npc_anim()
+event_inherited()
+if (TESTED > 0 && instance_exists(OBJ_WRITER) == 0)
+    scr_load()

@@ -1,0 +1,1 @@
+npctalk = 0

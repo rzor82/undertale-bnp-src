@@ -1,0 +1,17 @@
+bt = 3
+bt2 = 1
+bt3 = 0
+btimer = 0
+typecol = 16777215
+blue = 0
+type = 0
+col_o = 0
+angle = 0
+depth = -1
+god = 0
+siner = 0
+siner2 = 0
+active = false
+rot_speed = 1.8
+rot_speed_max = 2.4
+decay_timer = 60

@@ -1,0 +1,15 @@
+dsprite = spr_papyrus_dt
+usprite = spr_papyrus_ut
+lsprite = spr_papyrus_lt
+rsprite = spr_papyrus_rt
+dtsprite = spr_papyrus_dt
+utsprite = spr_papyrus_ut
+ltsprite = spr_papyrus_lt
+rtsprite = spr_papyrus_rt
+myinteract = 0
+facing = 1
+direction = 270
+talkedto = 0
+fun = false
+global.flag[430] = 0
+global.flag[390] = 0

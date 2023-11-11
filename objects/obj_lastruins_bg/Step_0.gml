@@ -1,0 +1,7 @@
+__background_set(3, 0, (__background_get(3, 0) + 0.1))
+__background_set(3, 1, (__background_get(3, 1) + 0.3))
+__background_set(3, 2, (__background_get(3, 2) + 0.5))
+__background_set(3, 3, (__background_get(3, 3) + 0.6))
+__background_set(3, 4, (__background_get(3, 4) + 1))
+__background_set(3, 5, (__background_get(3, 5) + 1.5))
+__background_set(3, 6, (__background_get(3, 6) + 2))

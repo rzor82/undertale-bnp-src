@@ -1,0 +1,6 @@
+camera_destroy(view_camera[2])
+if surface_exists(surface)
+    surface_free(surface)
+if sprite_exists(ss)
+    sprite_delete(ss)
+show_debug_message("Destroyed screenshotter")

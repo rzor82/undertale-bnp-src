@@ -1,0 +1,1872 @@
+{
+  "isDnd": false,
+  "volume": 1.0,
+  "parentRoom": null,
+  "views": [
+    {
+      "inherit": false,
+      "visible": true,
+      "xview": 0,
+      "yview": 0,
+      "wview": 320,
+      "hview": 240,
+      "xport": 0,
+      "yport": 0,
+      "wport": 640,
+      "hport": 480,
+      "hborder": 32,
+      "vborder": 32,
+      "hspeed": -1,
+      "vspeed": -1,
+      "objectId": {
+        "name": "obj_mainchara",
+        "path": "objects/obj_mainchara/obj_mainchara.yy"
+      }
+    },
+    {
+      "inherit": false,
+      "visible": false,
+      "xview": 0,
+      "yview": 0,
+      "wview": 640,
+      "hview": 480,
+      "xport": 0,
+      "yport": 0,
+      "wport": 640,
+      "hport": 480,
+      "hborder": 32,
+      "vborder": 32,
+      "hspeed": -1,
+      "vspeed": -1,
+      "objectId": null
+    },
+    {
+      "inherit": false,
+      "visible": false,
+      "xview": 0,
+      "yview": 0,
+      "wview": 640,
+      "hview": 480,
+      "xport": 0,
+      "yport": 0,
+      "wport": 640,
+      "hport": 480,
+      "hborder": 32,
+      "vborder": 32,
+      "hspeed": -1,
+      "vspeed": -1,
+      "objectId": null
+    },
+    {
+      "inherit": false,
+      "visible": false,
+      "xview": 0,
+      "yview": 0,
+      "wview": 640,
+      "hview": 480,
+      "xport": 0,
+      "yport": 0,
+      "wport": 640,
+      "hport": 480,
+      "hborder": 32,
+      "vborder": 32,
+      "hspeed": -1,
+      "vspeed": -1,
+      "objectId": null
+    },
+    {
+      "inherit": false,
+      "visible": false,
+      "xview": 0,
+      "yview": 0,
+      "wview": 640,
+      "hview": 480,
+      "xport": 0,
+      "yport": 0,
+      "wport": 640,
+      "hport": 480,
+      "hborder": 32,
+      "vborder": 32,
+      "hspeed": -1,
+      "vspeed": -1,
+      "objectId": null
+    },
+    {
+      "inherit": false,
+      "visible": false,
+      "xview": 0,
+      "yview": 0,
+      "wview": 640,
+      "hview": 480,
+      "xport": 0,
+      "yport": 0,
+      "wport": 640,
+      "hport": 480,
+      "hborder": 32,
+      "vborder": 32,
+      "hspeed": -1,
+      "vspeed": -1,
+      "objectId": null
+    },
+    {
+      "inherit": false,
+      "visible": false,
+      "xview": 0,
+      "yview": 0,
+      "wview": 640,
+      "hview": 480,
+      "xport": 0,
+      "yport": 0,
+      "wport": 640,
+      "hport": 480,
+      "hborder": 32,
+      "vborder": 32,
+      "hspeed": -1,
+      "vspeed": -1,
+      "objectId": null
+    },
+    {
+      "inherit": false,
+      "visible": false,
+      "xview": 0,
+      "yview": 0,
+      "wview": 640,
+      "hview": 480,
+      "xport": 0,
+      "yport": 0,
+      "wport": 640,
+      "hport": 480,
+      "hborder": 32,
+      "vborder": 32,
+      "hspeed": -1,
+      "vspeed": -1,
+      "objectId": null
+    }
+  ],
+  "layers": [
+    {
+      "instances": [
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_overworldcontroller",
+            "path": "objects/obj_overworldcontroller/obj_overworldcontroller.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 32.0,
+          "y": 6.0,
+          "resourceVersion": "1.0",
+          "name": "inst_000193F4",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        }
+      ],
+      "visible": true,
+      "depth": -500,
+      "userdefinedDepth": true,
+      "inheritLayerDepth": false,
+      "inheritLayerSettings": false,
+      "gridX": 16,
+      "gridY": 16,
+      "layers": [],
+      "hierarchyFrozen": false,
+      "resourceVersion": "1.0",
+      "name": "Compatibility_Instances_Depth_-500",
+      "tags": [],
+      "resourceType": "GMRInstanceLayer"
+    },
+    {
+      "instances": [
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidwide",
+            "path": "objects/obj_solidwide/obj_solidwide.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 109.0,
+          "y": 229.0,
+          "resourceVersion": "1.0",
+          "name": "inst_000193F5",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidwide",
+            "path": "objects/obj_solidwide/obj_solidwide.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 65.0,
+          "y": 229.0,
+          "resourceVersion": "1.0",
+          "name": "inst_000193F6",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidwide",
+            "path": "objects/obj_solidwide/obj_solidwide.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 19.0,
+          "y": 229.0,
+          "resourceVersion": "1.0",
+          "name": "inst_000193F7",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidwide",
+            "path": "objects/obj_solidwide/obj_solidwide.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 204.0,
+          "y": 230.0,
+          "resourceVersion": "1.0",
+          "name": "inst_000193F8",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidwide",
+            "path": "objects/obj_solidwide/obj_solidwide.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 247.0,
+          "y": 230.0,
+          "resourceVersion": "1.0",
+          "name": "inst_000193F9",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidwide",
+            "path": "objects/obj_solidwide/obj_solidwide.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 95.0,
+          "y": 78.0,
+          "resourceVersion": "1.0",
+          "name": "inst_000193FA",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidwide",
+            "path": "objects/obj_solidwide/obj_solidwide.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 131.0,
+          "y": 78.0,
+          "resourceVersion": "1.0",
+          "name": "inst_000193FB",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidwide",
+            "path": "objects/obj_solidwide/obj_solidwide.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 172.0,
+          "y": 78.0,
+          "resourceVersion": "1.0",
+          "name": "inst_000193FC",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidwide",
+            "path": "objects/obj_solidwide/obj_solidwide.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 199.0,
+          "y": 78.0,
+          "resourceVersion": "1.0",
+          "name": "inst_000193FD",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidwide",
+            "path": "objects/obj_solidwide/obj_solidwide.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 260.0,
+          "y": 55.0,
+          "resourceVersion": "1.0",
+          "name": "inst_000193FE",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidlong",
+            "path": "objects/obj_solidlong/obj_solidlong.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 96.0,
+          "y": 40.0,
+          "resourceVersion": "1.0",
+          "name": "inst_000193FF",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidlong",
+            "path": "objects/obj_solidlong/obj_solidlong.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 0.0,
+          "y": 27.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019400",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        }
+      ],
+      "visible": true,
+      "depth": -9,
+      "userdefinedDepth": true,
+      "inheritLayerDepth": false,
+      "inheritLayerSettings": false,
+      "gridX": 16,
+      "gridY": 16,
+      "layers": [],
+      "hierarchyFrozen": false,
+      "resourceVersion": "1.0",
+      "name": "Compatibility_Instances_Depth_-9",
+      "tags": [],
+      "resourceType": "GMRInstanceLayer"
+    },
+    {
+      "instances": [
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_markerw",
+            "path": "objects/obj_markerw/obj_markerw.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 167.0,
+          "y": 200.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019401",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_door_w",
+            "path": "objects/obj_door_w/obj_door_w.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 167.0,
+          "y": 234.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019402",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_grillbynpc_lesserdog",
+            "path": "objects/obj_grillbynpc_lesserdog/obj_grillbynpc_lesserdog.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 60.0,
+          "y": 57.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019403",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_grillbynpc_womandog",
+            "path": "objects/obj_grillbynpc_womandog/obj_grillbynpc_womandog.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 142.0,
+          "y": 131.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019404",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_grillbynpc_mandog",
+            "path": "objects/obj_grillbynpc_mandog/obj_grillbynpc_mandog.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 110.0,
+          "y": 149.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019405",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_grillbynpc_doggo",
+            "path": "objects/obj_grillbynpc_doggo/obj_grillbynpc_doggo.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 40.0,
+          "y": 135.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019406",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_townnpc_weirdfish",
+            "path": "objects/obj_townnpc_weirdfish/obj_townnpc_weirdfish.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 98.0,
+          "y": 65.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019407",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_townnpc_hatescity",
+            "path": "objects/obj_townnpc_hatescity/obj_townnpc_hatescity.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 238.0,
+          "y": 46.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019408",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_grillbynpc_grillby",
+            "path": "objects/obj_grillbynpc_grillby/obj_grillbynpc_grillby.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 154.0,
+          "y": 28.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019409",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_grillbynpc_hot2",
+            "path": "objects/obj_grillbynpc_hot2/obj_grillbynpc_hot2.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 126.0,
+          "y": 70.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001940A",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_sansmusic",
+            "path": "objects/obj_sansmusic/obj_sansmusic.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 61.0,
+          "y": 7.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001940B",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidsmall",
+            "path": "objects/obj_solidsmall/obj_solidsmall.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 187.0,
+          "y": 91.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001940C",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidsmall",
+            "path": "objects/obj_solidsmall/obj_solidsmall.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 194.0,
+          "y": 90.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001940D",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidsmall",
+            "path": "objects/obj_solidsmall/obj_solidsmall.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 114.0,
+          "y": 91.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001940E",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidsmall",
+            "path": "objects/obj_solidsmall/obj_solidsmall.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 122.0,
+          "y": 91.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001940F",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidsmall",
+            "path": "objects/obj_solidsmall/obj_solidsmall.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 96.0,
+          "y": 60.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019410",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_grillbynpc_sansdate",
+            "path": "objects/obj_grillbynpc_sansdate/obj_grillbynpc_sansdate.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 165.0,
+          "y": 174.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019411",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_readable_room1",
+            "path": "objects/obj_readable_room1/obj_readable_room1.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 268.0,
+          "y": 55.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019412",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_readable_room2",
+            "path": "objects/obj_readable_room2/obj_readable_room2.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 42.0,
+          "y": 30.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019413",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_door_w",
+            "path": "objects/obj_door_w/obj_door_w.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 150.0,
+          "y": 237.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019414",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_door_w",
+            "path": "objects/obj_door_w/obj_door_w.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 185.0,
+          "y": 237.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019415",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_npc_room",
+            "path": "objects/obj_npc_room/obj_npc_room.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 185.0,
+          "y": 35.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001D05A",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_npc_room",
+            "path": "objects/obj_npc_room/obj_npc_room.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 233.0,
+          "y": 40.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001D05B",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_townnpc_monsterkid1",
+            "path": "objects/obj_townnpc_monsterkid1/obj_townnpc_monsterkid1.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 83.0,
+          "y": 190.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001D305",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidtall_2",
+            "path": "objects/obj_solidtall_2/obj_solidtall_2.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 85.0,
+          "y": 200.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001D334",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        }
+      ],
+      "visible": true,
+      "depth": 0,
+      "userdefinedDepth": true,
+      "inheritLayerDepth": false,
+      "inheritLayerSettings": false,
+      "gridX": 16,
+      "gridY": 16,
+      "layers": [],
+      "hierarchyFrozen": false,
+      "resourceVersion": "1.0",
+      "name": "Compatibility_Instances_Depth_0",
+      "tags": [],
+      "resourceType": "GMRInstanceLayer"
+    },
+    {
+      "instances": [
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_booth",
+            "path": "objects/obj_booth/obj_booth.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 223.0,
+          "y": 121.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019416",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_pokertable",
+            "path": "objects/obj_pokertable/obj_pokertable.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 64.0,
+          "y": 135.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019417",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_bottomtable",
+            "path": "objects/obj_bottomtable/obj_bottomtable.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 43.0,
+          "y": 198.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019418",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_lessdogtable",
+            "path": "objects/obj_lessdogtable/obj_lessdogtable.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 22.0,
+          "y": 66.0,
+          "resourceVersion": "1.0",
+          "name": "inst_00019419",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        }
+      ],
+      "visible": true,
+      "depth": 50,
+      "userdefinedDepth": true,
+      "inheritLayerDepth": false,
+      "inheritLayerSettings": false,
+      "gridX": 16,
+      "gridY": 16,
+      "layers": [],
+      "hierarchyFrozen": false,
+      "resourceVersion": "1.0",
+      "name": "Compatibility_Instances_Depth_50",
+      "tags": [],
+      "resourceType": "GMRInstanceLayer"
+    },
+    {
+      "instances": [
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_mainchara",
+            "path": "objects/obj_mainchara/obj_mainchara.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 200.0,
+          "y": 120.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001941A",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        }
+      ],
+      "visible": true,
+      "depth": 100,
+      "userdefinedDepth": true,
+      "inheritLayerDepth": false,
+      "inheritLayerSettings": false,
+      "gridX": 16,
+      "gridY": 16,
+      "layers": [],
+      "hierarchyFrozen": false,
+      "resourceVersion": "1.0",
+      "name": "Compatibility_Instances_Depth_100",
+      "tags": [],
+      "resourceType": "GMRInstanceLayer"
+    },
+    {
+      "instances": [
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_grillbynpc_foodmonster",
+            "path": "objects/obj_grillbynpc_foodmonster/obj_grillbynpc_foodmonster.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 228.0,
+          "y": 111.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001941B",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        }
+      ],
+      "visible": true,
+      "depth": 300,
+      "userdefinedDepth": true,
+      "inheritLayerDepth": false,
+      "inheritLayerSettings": false,
+      "gridX": 16,
+      "gridY": 16,
+      "layers": [],
+      "hierarchyFrozen": false,
+      "resourceVersion": "1.0",
+      "name": "Compatibility_Instances_Depth_300",
+      "tags": [],
+      "resourceType": "GMRInstanceLayer"
+    },
+    {
+      "instances": [
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_grillbynpc_hotandbothered",
+            "path": "objects/obj_grillbynpc_hotandbothered/obj_grillbynpc_hotandbothered.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 227.0,
+          "y": 167.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001941C",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        }
+      ],
+      "visible": true,
+      "depth": 1000,
+      "userdefinedDepth": true,
+      "inheritLayerDepth": false,
+      "inheritLayerSettings": false,
+      "gridX": 16,
+      "gridY": 16,
+      "layers": [],
+      "hierarchyFrozen": false,
+      "resourceVersion": "1.0",
+      "name": "Compatibility_Instances_Depth_1000",
+      "tags": [],
+      "resourceType": "GMRInstanceLayer"
+    },
+    {
+      "instances": [
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidtall",
+            "path": "objects/obj_solidtall/obj_solidtall.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 300.0,
+          "y": 56.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001941D",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        },
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_solidtall",
+            "path": "objects/obj_solidtall/obj_solidtall.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": -2.0,
+          "y": 1.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001941E",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        }
+      ],
+      "visible": true,
+      "depth": 60000,
+      "userdefinedDepth": true,
+      "inheritLayerDepth": false,
+      "inheritLayerSettings": false,
+      "gridX": 16,
+      "gridY": 16,
+      "layers": [],
+      "hierarchyFrozen": false,
+      "resourceVersion": "1.0",
+      "name": "Compatibility_Instances_Depth_60000",
+      "tags": [],
+      "resourceType": "GMRInstanceLayer"
+    },
+    {
+      "instances": [
+        {
+          "properties": [],
+          "isDnd": false,
+          "objectId": {
+            "name": "obj_bigdog",
+            "path": "objects/obj_bigdog/obj_bigdog.yy"
+          },
+          "inheritCode": false,
+          "hasCreationCode": false,
+          "colour": 4294967295,
+          "rotation": 0.0,
+          "scaleX": 1.0,
+          "scaleY": 1.0,
+          "imageIndex": 0,
+          "imageSpeed": 0.0,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 70.0,
+          "y": 111.0,
+          "resourceVersion": "1.0",
+          "name": "inst_0001941F",
+          "tags": [],
+          "resourceType": "GMRInstance"
+        }
+      ],
+      "visible": true,
+      "depth": 99999,
+      "userdefinedDepth": true,
+      "inheritLayerDepth": false,
+      "inheritLayerSettings": false,
+      "gridX": 16,
+      "gridY": 16,
+      "layers": [],
+      "hierarchyFrozen": false,
+      "resourceVersion": "1.0",
+      "name": "Compatibility_Instances_Depth_99999",
+      "tags": [],
+      "resourceType": "GMRInstanceLayer"
+    },
+    {
+      "assets": [
+        {
+          "spriteId": {
+            "name": "spr_lchair_grill",
+            "path": "sprites/spr_lchair_grill/spr_lchair_grill.yy"
+          },
+          "w": 16,
+          "h": 26,
+          "u0": 0,
+          "v0": 0,
+          "u1": 16,
+          "v1": 26,
+          "colour": 4294967295,
+          "inheritedItemId": null,
+          "frozen": false,
+          "ignore": false,
+          "inheritItemSettings": false,
+          "x": 85.0,
+          "y": 200.0,
+          "resourceVersion": "1.0",
+          "name": "inst_%10154194008X",
+          "tags": [],
+          "resourceType": "GMRGraphic"
+        }
+      ],
+      "visible": true,
+      "depth": 1000000,
+      "userdefinedDepth": true,
+      "inheritLayerDepth": false,
+      "inheritLayerSettings": false,
+      "gridX": 16,
+      "gridY": 16,
+      "layers": [],
+      "hierarchyFrozen": false,
+      "resourceVersion": "1.0",
+      "name": "Compatibility_Tiles_Depth_1000000",
+      "tags": [],
+      "resourceType": "GMRAssetLayer"
+    },
+    {
+      "spriteId": {
+        "name": "bg_grillbyplaceholder",
+        "path": "sprites/bg_grillbyplaceholder/bg_grillbyplaceholder.yy"
+      },
+      "colour": 4294967295,
+      "x": 0,
+      "y": 0,
+      "htiled": true,
+      "vtiled": true,
+      "hspeed": 0.0,
+      "vspeed": 0.0,
+      "stretch": false,
+      "animationFPS": 15.0,
+      "animationSpeedType": 0,
+      "userdefinedAnimFPS": true,
+      "visible": true,
+      "depth": 2147483500,
+      "userdefinedDepth": true,
+      "inheritLayerDepth": false,
+      "inheritLayerSettings": false,
+      "gridX": 16,
+      "gridY": 16,
+      "layers": [],
+      "hierarchyFrozen": false,
+      "resourceVersion": "1.0",
+      "name": "Compatibility_Background_0_bg_grillbyplaceholder",
+      "tags": [],
+      "resourceType": "GMRBackgroundLayer"
+    },
+    {
+      "spriteId": null,
+      "colour": 4278190080,
+      "x": 0,
+      "y": 0,
+      "htiled": false,
+      "vtiled": false,
+      "hspeed": 0.0,
+      "vspeed": 0.0,
+      "stretch": false,
+      "animationFPS": 15.0,
+      "animationSpeedType": 0,
+      "userdefinedAnimFPS": true,
+      "visible": true,
+      "depth": 2147483600,
+      "userdefinedDepth": true,
+      "inheritLayerDepth": false,
+      "inheritLayerSettings": false,
+      "gridX": 16,
+      "gridY": 16,
+      "layers": [],
+      "hierarchyFrozen": false,
+      "resourceVersion": "1.0",
+      "name": "Compatibility_Colour",
+      "tags": [],
+      "resourceType": "GMRBackgroundLayer"
+    }
+  ],
+  "inheritLayers": false,
+  "creationCodeFile": "",
+  "inheritCode": false,
+  "instanceCreationOrder": [
+    {
+      "name": "inst_0001941F",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001941D",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001941E",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001941C",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001941B",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001941A",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019416",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019417",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019418",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019419",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019401",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019402",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019403",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019404",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019405",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019406",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019407",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019408",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019409",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001940A",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001940B",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001940C",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001940D",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001940E",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001940F",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019410",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019411",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019412",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019413",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_000193F5",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_000193F6",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_000193F7",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_000193F8",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_000193F9",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_000193FA",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_000193FB",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_000193FC",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_000193FD",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_000193FE",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_000193FF",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019400",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_000193F4",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019414",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_00019415",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001D05A",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001D05B",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001D305",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    },
+    {
+      "name": "inst_0001D334",
+      "path": "rooms/room_tundra_grillby/room_tundra_grillby.yy"
+    }
+  ],
+  "inheritCreationOrder": false,
+  "sequenceId": null,
+  "roomSettings": {
+    "inheritRoomSettings": false,
+    "Width": 320,
+    "Height": 240,
+    "persistent": false
+  },
+  "viewSettings": {
+    "inheritViewSettings": false,
+    "enableViews": true,
+    "clearViewBackground": false,
+    "clearDisplayBuffer": false
+  },
+  "physicsSettings": {
+    "inheritPhysicsSettings": false,
+    "PhysicsWorld": false,
+    "PhysicsWorldGravityX": 0.0,
+    "PhysicsWorldGravityY": 10.0,
+    "PhysicsWorldPixToMetres": 0.1
+  },
+  "parent": {
+    "name": "Rooms",
+    "path": "folders/Rooms.yy"
+  },
+  "resourceVersion": "1.0",
+  "name": "room_tundra_grillby",
+  "tags": [],
+  "resourceType": "GMRoom"
+}

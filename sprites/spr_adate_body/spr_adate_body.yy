@@ -1,0 +1,179 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 0,
+  "type": 0,
+  "origin": 9,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 10,
+  "bbox_right": 76,
+  "bbox_top": 17,
+  "bbox_bottom": 70,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 77,
+  "height": 71,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default"
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {
+      "compositeImage": {
+        "FrameId": {
+          "name": "5b9a2f6c-f609-4b4f-bbef-6c12ba437939",
+          "path": "sprites/spr_adate_body/spr_adate_body.yy"
+        },
+        "LayerId": null,
+        "resourceVersion": "1.0",
+        "name": "composite",
+        "tags": [],
+        "resourceType": "GMSpriteBitmap"
+      },
+      "images": [
+        {
+          "FrameId": {
+            "name": "5b9a2f6c-f609-4b4f-bbef-6c12ba437939",
+            "path": "sprites/spr_adate_body/spr_adate_body.yy"
+          },
+          "LayerId": {
+            "name": "e4287ee6-7c50-4e46-a77c-d4fec5e4c7d0",
+            "path": "sprites/spr_adate_body/spr_adate_body.yy"
+          },
+          "resourceVersion": "1.0",
+          "name": "",
+          "tags": [],
+          "resourceType": "GMSpriteBitmap"
+        }
+      ],
+      "parent": {
+        "name": "spr_adate_body",
+        "path": "sprites/spr_adate_body/spr_adate_body.yy"
+      },
+      "resourceVersion": "1.0",
+      "name": "5b9a2f6c-f609-4b4f-bbef-6c12ba437939",
+      "tags": [],
+      "resourceType": "GMSpriteFrame"
+    }
+  ],
+  "sequence": {
+    "spriteId": {
+      "name": "spr_adate_body",
+      "path": "sprites/spr_adate_body/spr_adate_body.yy"
+    },
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 1.0,
+    "playbackSpeedType": 1,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 1.0,
+    "events": {
+      "Keyframes": [],
+      "resourceVersion": "1.0",
+      "resourceType": "KeyframeStore<MessageEventKeyframe>"
+    },
+    "moments": {
+      "Keyframes": [],
+      "resourceVersion": "1.0",
+      "resourceType": "KeyframeStore<MomentsEventKeyframe>"
+    },
+    "tracks": [
+      {
+        "name": "frames",
+        "spriteId": null,
+        "keyframes": {
+          "Keyframes": [
+            {
+              "id": "ac5d59b6-41b9-408c-8864-914b9c91fb19",
+              "Key": 0.0,
+              "Length": 1.0,
+              "Stretch": false,
+              "Disabled": false,
+              "IsCreationKey": false,
+              "Channels": {
+                "0": {
+                  "Id": {
+                    "name": "5b9a2f6c-f609-4b4f-bbef-6c12ba437939",
+                    "path": "sprites/spr_adate_body/spr_adate_body.yy"
+                  },
+                  "resourceVersion": "1.0",
+                  "resourceType": "SpriteFrameKeyframe"
+                }
+              },
+              "resourceVersion": "1.0",
+              "resourceType": "Keyframe<SpriteFrameKeyframe>"
+            }
+          ],
+          "resourceVersion": "1.0",
+          "resourceType": "KeyframeStore<SpriteFrameKeyframe>"
+        },
+        "trackColour": 0,
+        "inheritsTrackColour": true,
+        "builtinName": 0,
+        "traits": 0,
+        "interpolation": 1,
+        "tracks": [],
+        "events": [],
+        "modifiers": [],
+        "isCreationTrack": false,
+        "resourceVersion": "1.0",
+        "tags": [],
+        "resourceType": "GMSpriteFramesTrack"
+      }
+    ],
+    "visibleRange": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 0,
+    "yorigin": 0,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {
+      "name": "spr_adate_body",
+      "path": "sprites/spr_adate_body/spr_adate_body.yy"
+    },
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence"
+  },
+  "layers": [
+    {
+      "visible": true,
+      "isLocked": false,
+      "blendMode": 0,
+      "opacity": 100.0,
+      "displayName": "default",
+      "resourceVersion": "1.0",
+      "name": "e4287ee6-7c50-4e46-a77c-d4fec5e4c7d0",
+      "tags": [],
+      "resourceType": "GMImageLayer"
+    }
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Sprites",
+    "path": "folders/Sprites.yy"
+  },
+  "resourceVersion": "1.0",
+  "name": "spr_adate_body",
+  "tags": [],
+  "resourceType": "GMSprite"
+}

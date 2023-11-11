@@ -1,0 +1,6 @@
+if (((!instance_exists(obj_torbody)) && (!instance_exists(obj_face_anything_new))) || global.facechoice == 6)
+    instance_destroy()
+if instance_exists(obj_face_anything_new)
+    depth = (obj_face_anything_new.depth - 100000000000)
+if instance_exists(obj_dialoguer)
+    depth = (obj_dialoguer.depth - 100000000000)
